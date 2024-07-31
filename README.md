@@ -69,3 +69,11 @@ Learn about recursion, a powerful technique where functions call themselves to s
 ## Day 17: Data Structures
 Explore common data structures in JavaScript, such as stacks, queues, linked lists, and more.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_17)
+
+## Day 18: Algorithms
+Learn about common algorithms in JavaScript, including sorting and searching techniques.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_18)
+
+## Day 19: Regular Expressions
+Understand regular expressions for pattern matching and text manipulation in JavaScript.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_19)
