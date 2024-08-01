@@ -77,3 +77,7 @@ Learn about common algorithms in JavaScript, including sorting and searching tec
 ## Day 19: Regular Expressions
 Understand regular expressions for pattern matching and text manipulation in JavaScript.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_19)
+
+## Day 20: LocalStorage and SessionStorage
+Learn about web storage APIs, including LocalStorage and SessionStorage, for storing data on the client side.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_20)
