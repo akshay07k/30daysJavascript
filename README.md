@@ -81,3 +81,11 @@ Understand regular expressions for pattern matching and text manipulation in Jav
 ## Day 20: LocalStorage and SessionStorage
 Learn about web storage APIs, including LocalStorage and SessionStorage, for storing data on the client side.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_20)
+
+## Day 21: Leetcode Easy
+Solve easy-level problems on Leetcode to practice your coding skills.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_21)
+
+## Day 22: Leetcode Medium
+Take on medium-level challenges on Leetcode to improve your problem-solving abilities.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_22)
