@@ -89,3 +89,7 @@ Solve easy-level problems on Leetcode to practice your coding skills.
 ## Day 22: Leetcode Medium
 Take on medium-level challenges on Leetcode to improve your problem-solving abilities.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_22)
+
+## Day 23: Leetcode Hard
+Tackle hard-level problems on Leetcode to push your coding skills to the next level.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_23)
