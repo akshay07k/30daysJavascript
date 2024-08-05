@@ -93,3 +93,7 @@ Take on medium-level challenges on Leetcode to improve your problem-solving abil
 ## Day 23: Leetcode Hard
 Tackle hard-level problems on Leetcode to push your coding skills to the next level.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_23)
+
+## Day 24: Weather Application
+Build a weather application to fetch and display weather data using APIs.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_24)
