@@ -1,4 +1,4 @@
-const API_KEY = "e9ac764b"
+const API_KEY = "your_api_key"
 let moreInfoButton = document.createElement("button");
 
 const form = document.querySelector("form")
