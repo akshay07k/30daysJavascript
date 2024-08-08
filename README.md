@@ -105,3 +105,7 @@ Create a movie search application to fetch and display movie data using APIs.
 ## Day 26: Chat App
 Build a chat application using WebSocket for real-time communication.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_26)
+
+## Day 27: Task Management App
+Develop a task management application to create, update, and track tasks.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_27)
