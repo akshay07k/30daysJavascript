@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "price": 79.99,
+        "description": "High-quality wireless headphones with noise-cancellation",
+        "imageUrl": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Smartphone 6.5-inch Display",
+        "price": 499.99,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and dual-camera system.",
+        "imageUrl": "https://images.pexels.com/photos/249324/pexels-photo-249324.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Fitness Tracker Watch",
+        "price": 59.99,
+        "description": "Stylish fitness tracker for daily activity and health metrics.",
+        "imageUrl": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "4K Ultra HD Smart TV",
+        "price": 799.99,
+        "description": "55-inch 4K Ultra HD Smart TV with streaming apps and voice control.",
+        "imageUrl": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "price": 29.99,
+        "description": "Compact Bluetooth speaker with up to 10 hours of playtime.",
+        "imageUrl": "https://images.pexels.com/photos/128611/pexels-photo-128611.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Laptop 15.6-inch, 16GB RAM",
+        "price": 999.99,
+        "description": "Laptop with 15.6-inch display, 16GB RAM, and 512GB SSD.",
+        "imageUrl": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg"
+    },
+    {
+        "name": "Wireless Mouse and Keyboard Combo",
+        "price": 49.99,
+        "description": "Ergonomic wireless mouse and keyboard combo for home and office.",
+        "imageUrl": "https://images.pexels.com/photos/399160/pexels-photo-399160.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Smart Home Security Camera",
+        "price": 89.99,
+        "description": "Smart security camera with motion detection and night vision.",
+        "imageUrl": "https://images.pexels.com/photos/24503710/pexels-photo-24503710/free-photo-of-smart-home-security-system.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Gaming Console with 2 Controllers",
+        "price": 399.99,
+        "description": "Next-gen gaming console with two controllers for ultimate gaming.",
+        "imageUrl": "https://images.pexels.com/photos/4522992/pexels-photo-4522992.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "name": "Noise-Cancelling Earbuds",
+        "price": 129.99,
+        "description": "Noise-cancelling earbuds with crystal-clear sound and comfortable fit.",
+        "imageUrl": "https://images.pexels.com/photos/3394663/pexels-photo-3394663.jpeg"
+    }
+]

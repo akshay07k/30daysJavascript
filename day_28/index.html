@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our E-commerce Store</h1>
+    </header>
+    <main>
+        <section id="product-list"></section>
+        <section id="shopping-cart">
+            <h2>Shopping Cart</h2>
+            <ul id="cart-items"></ul>
+            <p id="cart-total"></p>
+            <button id="checkout-btn">Checkout</button>
+            <section id="checkout-form" style="display: none;">
+                <h2>Checkout</h2>
+                <form id="checkout">
+                    <input type="text" placeholder="Name" required>
+                    <input type="text" placeholder="Address" required>
+                    <input type="text" placeholder="Payment Details" required>
+                    <button type="submit">Place Order</button>
+                    <button type="button" id="cancel-checkout">Cancel</button> 
+                </form>
+            </section>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 E-commerce Website</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

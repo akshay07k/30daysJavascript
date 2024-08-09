@@ -109,3 +109,7 @@ Build a chat application using WebSocket for real-time communication.
 ## Day 27: Task Management App
 Develop a task management application to create, update, and track tasks.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_27)
+
+## Day 28: E-commerce Website
+Create a basic e-commerce website with features like product listings, cart, and checkout.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_28)
