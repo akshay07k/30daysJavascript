@@ -113,3 +113,7 @@ Develop a task management application to create, update, and track tasks.
 ## Day 28: E-commerce Website
 Create a basic e-commerce website with features like product listings, cart, and checkout.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_28)
+
+## Day 29: Social Media Dashboard
+Develop a social media dashboard with user authentication, post creation, and interaction features.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_29)

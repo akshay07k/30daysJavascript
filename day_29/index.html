@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Social Media Dashboard</h1>
+    </header>
+    <main>
+        <form id="login-form">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            <button type="submit">Login</button>
+        </form>
+
+        <form id="post-form">
+            <textarea id="post-content" placeholder="What's on your mind?" required></textarea>
+            <input type="file" id="post-image">
+            <button type="submit">Post</button>
+        </form>
+
+        <div id="post-container">
+            
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Social Media Dashboard</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
