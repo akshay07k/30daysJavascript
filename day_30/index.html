@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Login and Registration Forms -->
+    <div id="authContainer">
+        <div id="loginFormContainer" class="auth-form">
+            <h2>Login</h2>
+            <form id="loginForm">
+                <input type="text" id="loginUsername" placeholder="Username" required>
+                <input type="password" id="loginPassword" placeholder="Password" required>
+                <button type="submit">Login</button>
+                <p>Don't have an account? <a href="#" id="showRegisterForm">Register</a></p>
+            </form>
+        </div>
+
+        <div id="registerFormContainer" class="auth-form" style="display: none;">
+            <h2>Register</h2>
+            <form id="registerForm">
+                <input type="text" id="registerUsername" placeholder="Username" required>
+                <input type="email" id="registerEmail" placeholder="Email" required>
+                <input type="password" id="registerPassword" placeholder="Password" required>
+                <button type="submit">Register</button>
+                <p>Already have an account? <a href="#" id="showLoginForm">Login</a></p>
+            </form>
+        </div>
+    </div>
+
+    <!-- Main Dashboard Container -->
+    <div id="dashboardContainer" style="display: none;">
+        <div class="container">
+            <!-- User profile and notifications -->
+            <div class="sidebar">
+                <h2>User Profile</h2>
+                <img id="profilePicture" src="download.jpeg" alt="Profile Picture" width="100">
+                <p><strong>Username:</strong> <span id="profileUsername"></span></p>
+                <p><strong>Email:</strong> <span id="profileEmail"></span></p>
+                <button id="editProfileButton">Edit Profile</button>
+
+                <h2>Notifications</h2>
+                <div id="notifications"></div>
+            </div>
+            <!-- Edit Profile Section -->
+            <div id="editProfileModal" class="modal">
+                <div class="modal-content">
+                    <span class="close-button" id="closeModal">&times;</span>
+                    <h2>Edit Profile</h2>
+                    <form id="editProfileForm">
+                        <input type="text" id="editUsername" placeholder="Username" required>
+                        <input type="email" id="editEmail" placeholder="Email" required>
+                        <input type="file" id="editProfilePicture" accept="image/*">
+                        <button type="submit">Save Changes</button>
+                    </form>
+                </div>
+            </div>
+
+
+            <!-- Form to create a new post -->
+            <div class="form-container">
+                <h2>Create New Post</h2>
+                <form id="createPostForm">
+                    <textarea id="postContent" placeholder="What's on your mind?" required></textarea>
+                    <input type="file" id="postImage" accept="image/*">
+                    <button type="submit">Post</button>
+                </form>
+            </div>
+
+            <!-- Post feed to display posts -->
+            <div id="postFeed" class="post-container">
+                
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

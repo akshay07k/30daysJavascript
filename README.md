@@ -117,3 +117,10 @@ Create a basic e-commerce website with features like product listings, cart, and
 ## Day 29: Social Media Dashboard
 Develop a social media dashboard with user authentication, post creation, and interaction features.
 [Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_29)
+
+## Day 30: Final Social Media Dashboard Project
+Build a complete social media dashboard with user authentication, profiles, post interactions, and a notification system.
+[Link to code](https://github.com/akshay07k/30daysJavascript/tree/main/day_30)
+
+
+#Thankyou!
